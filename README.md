@@ -20,3 +20,8 @@ This Repository is growing. More Sheets are added.
 **If you want to contribute. Please Do. Thanks a Lot**
 
 `Argho | 05/05/20`
+
+
+## License:-
+
+- This repository is protected and licensed by [GNU General Public License v3.0](https://github.com/blackeye735/cheatsheet/blob/master/LICENSE)
