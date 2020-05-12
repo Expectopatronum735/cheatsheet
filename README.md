@@ -1,5 +1,5 @@
 # CHEATSHEET
-## By Arkadip Bhattacharya
+## By Argho Chakraborty
 
 > This REPO cotains all useful Cheatsheets for Any `Programming Language`
 
@@ -19,4 +19,4 @@ This Repository is growing. More Sheets are added.
 
 **If you want to contribute. Please Do. Thanks a Lot**
 
-`Arkadip | 01/07/19`
+`Argho | 05/05/20`
